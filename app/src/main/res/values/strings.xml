@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ViperDemo</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="login">Login</string>
+    <string name="activity_login">LoginActivity</string>
+    <string name="activity_home">HomeActivity</string>
+    <string name="welcome_screen">Welcome Screen</string>
+</resources>

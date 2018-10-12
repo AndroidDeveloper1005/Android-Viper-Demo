@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@android:color/white">
+
+    <ImageView
+        app:layout_constraintBottom_toTopOf="parent"
+        app:layout_constraintTop_toBottomOf="parent"
+        app:layout_constraintRight_toLeftOf="parent"
+        app:layout_constraintLeft_toRightOf="parent"
+        android:layout_width="@dimen/splash_image_width"
+        android:layout_height="@dimen/splash_image_height"
+        android:background="@drawable/splash_icon"
+        />
+
+</android.support.constraint.ConstraintLayout>
